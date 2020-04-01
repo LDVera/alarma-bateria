@@ -1,0 +1,2 @@
+rootProject.name='Alarma Bateria'
+include ':app'
